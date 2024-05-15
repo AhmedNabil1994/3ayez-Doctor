@@ -1,0 +1,32 @@
+.logo-image img {
+  width: 200px;
+}
+.nav-item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-left: 20px;
+}
+.add-clinic {
+  border: 1px dashed #f17b21;
+  padding: 10px;
+}
+ul.signin-lan {
+  display: flex;
+  margin: 0;
+  justify-content: space-between;
+  width: 323px;
+}
+ul.signin-lan .lan {
+  margin-right: -70px;
+}
+ul.signin-lan .lan i {
+  margin-left: 10px;
+  color: #4183bc;
+  font-size: 20px;
+}
+ul.signin-lan .lan span{
+  color: #4183bc;
+  font-size: 17px;
+  font-weight: 500;
+}

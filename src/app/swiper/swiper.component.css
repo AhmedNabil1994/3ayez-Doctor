@@ -1,0 +1,11 @@
+owl-carousel-o .card {
+  position: relative;
+}
+owl-carousel-o i.fa-share-alt {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+owl-carousel-o img {
+  height: 200px;
+}

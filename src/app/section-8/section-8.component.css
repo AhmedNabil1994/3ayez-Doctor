@@ -1,0 +1,11 @@
+.section-8-container p:first-child {
+  font-size: 25px;
+  color: #0064d3;
+  font-weight: 600;
+}
+.section-8-container p:nth-child(2) {
+  font-size: 15px;
+}
+.section-8-container .row {
+  margin-left: 0;
+}

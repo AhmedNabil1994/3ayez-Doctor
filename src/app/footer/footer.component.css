@@ -1,0 +1,25 @@
+.footer-container {
+  padding: 50px;
+}
+.footer-container h3 {
+  color: white;
+}
+.footer-container .row ul {
+  list-style: none;
+  padding: 0;
+}
+.footer-container .row ul a {
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+}
+.footer-container .row ul a:hover{
+  color: orange;
+}
+.footer-container .row .social ul {
+  display: flex;
+}
+.footer-container .row .social ul i {
+  font-size: 25px;
+  margin-left: 10px;
+}

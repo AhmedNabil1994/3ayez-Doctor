@@ -1,0 +1,40 @@
+.section-2-container {
+  padding: 80px;
+  margin: auto;
+}
+.section-2-container p{
+  font-weight: 400;
+  font-size: 30px;
+}
+.location,
+.search-doctor,
+.speciality {
+  position: relative;
+}
+.search-doctor .fa-magnifying-glass {
+  position: absolute;
+  z-index: 2;
+  top: 10px;
+  right: 10px;
+}
+.location .fa-map-marker-alt,
+.speciality .fa-stethoscope {
+  position: absolute;
+  top: 10px;
+  z-index: 2;
+  left: 10px;
+}
+.location button,
+.speciality button {
+  position: absolute;
+  right: 10px;
+}
+.search-doctor input::placeholder,
+.location input::placeholder,
+.speciality input::placeholder {
+  padding: 60px;
+}
+
+.section-2-container .search button {
+  width: 100%;
+}

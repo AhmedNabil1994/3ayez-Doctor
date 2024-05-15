@@ -1,0 +1,21 @@
+.section-6-container > p {
+  font-size: 25px;
+  color: #0064d3;
+  font-weight: 600;
+}
+.section-6-container p:nth-child(2) {
+  font-size: 15px;
+  color: inherit;
+}
+.section-6-container .card {
+  position: relative;
+}
+.section-6-container .card .free {
+  position: absolute;
+  background-color: red;
+  color: white;
+  padding: 5px 20px;
+  font-weight: 700;
+  right: 0;
+  bottom: 30%;
+}
