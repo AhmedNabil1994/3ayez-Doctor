@@ -3,3 +3,8 @@
   color: #0064d3;
   font-weight: 600;
 }
+@media(max-width: 400px) {
+  .card {
+    width: 100% !important;
+  }
+}

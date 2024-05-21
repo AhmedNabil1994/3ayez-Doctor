@@ -19,3 +19,8 @@
   right: 0;
   bottom: 30%;
 }
+@media(max-width: 400px) {
+  .card {
+    width: 100% !important;
+  }
+}

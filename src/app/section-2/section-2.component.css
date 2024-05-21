@@ -1,10 +1,6 @@
-.section-2-container {
-  padding: 80px;
-  margin: auto;
-}
-.section-2-container p{
+.section-2-container p {
   font-weight: 400;
-  font-size: 30px;
+  /* font-size: 30px; */
 }
 .location,
 .search-doctor,
@@ -32,7 +28,7 @@
 .search-doctor input::placeholder,
 .location input::placeholder,
 .speciality input::placeholder {
-  padding: 60px;
+  padding: 30px;
 }
 
 .section-2-container .search button {

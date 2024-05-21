@@ -3,3 +3,8 @@
   border-radius: 2px;
   padding: 5px;
 }
+@media (max-width: 576px) {
+  .carousel-item img {
+    height: 140px;
+  }
+}

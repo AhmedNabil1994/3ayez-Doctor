@@ -9,3 +9,9 @@ owl-carousel-o i.fa-share-alt {
 owl-carousel-o img {
   height: 200px;
 }
+
+@media(max-width: 400px) {
+  .card {
+    width: 100% !important;
+  }
+}
